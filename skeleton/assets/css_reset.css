@@ -1,0 +1,17 @@
+body{
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font: inherit;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  line-height: 1.5;
+  
+
+}
+
+img {
+   width: 100%;
+    height: auto;
+  max-width: 100%;
+}
+
